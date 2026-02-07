@@ -3,6 +3,7 @@
 A simple golang server to receive remote files. Needs Tailscale
 
 ```
+## start the server
 go run main.go
 
 ## and in a different terminal
