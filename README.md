@@ -1,4 +1,4 @@
-# file-reciver
+# file-receiver
 
 A simple golang server to receive remote files. Needs Tailscale
 
